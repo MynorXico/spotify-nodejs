@@ -1,8 +1,6 @@
 const dotenv = require('dotenv');
 const axios = require('axios');
 const qs = require('querystring');
-const { resolve } = require('path');
-const { rejects } = require('assert');
 const Song = require('../Models/Song').Song
 dotenv.config();
 
