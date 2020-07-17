@@ -1,2 +1,4 @@
+![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibHlSNWlXUFZVREVoUUViNUpvS3gycHQvMkFDMzViWG9vNm1vZW9HdkhMVTczU1F2Vkg5UGVtb1k3ZHFuNCtCcklmaUxXNkdQOGdmVW54bTg3ZStBcVhrPSIsIml2UGFyYW1ldGVyU3BlYyI6InRWd0NGOE15a0FQK2NhUlEiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 # spotify-nodejs
 CD
